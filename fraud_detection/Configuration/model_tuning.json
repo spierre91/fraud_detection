@@ -1,0 +1,1 @@
+{"numberof_neighbors": [5], "target_threshold": [60000.0], "training_data": ["../KNN_model_data/trainingdata.csv"], "sensitivity_factor": [10], "dump_threshold": [0.0], "number of accuracy runs": [1000]}
